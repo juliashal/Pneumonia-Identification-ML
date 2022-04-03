@@ -9,7 +9,9 @@ There are multiple ML models tested in this project:
 -Combined model (2 best ones chosen)
 
 Check out the paper to find which one brought the best accuracy.
+
 Thank you,
+
 Iuliia Shal
 \
 \
